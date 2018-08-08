@@ -2,7 +2,7 @@
     "name":"sld/ppnsvcssdk",
     "version":"0.1.0",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=7.0"
     },
     "autoload": {
         "classmap":[]
