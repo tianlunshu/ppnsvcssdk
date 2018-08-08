@@ -1,0 +1,16 @@
+{
+    "name": "sld/ppnsvcssdk",
+    "description": "sld push pull net services sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tianlunshu",
+            "email": "747735267@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+      },
+}
