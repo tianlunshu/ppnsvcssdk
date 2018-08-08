@@ -1,6 +1,5 @@
 {
     "name": "sld/ppnsvcssdk",
-    "description": "sld push pull net services sdk",
     "type": "library",
     "license": "MIT",
     "authors": [
