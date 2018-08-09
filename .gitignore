@@ -7,4 +7,3 @@ test.php
 config/dev.php
 tag_test.php
 config/local.php
-composer.lock
