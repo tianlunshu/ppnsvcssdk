@@ -1,10 +1,11 @@
 {
     "name":"sld/ppnsvcssdk",
+    "description":"push pull net services sdk",
     "version":"0.1.0",
     "require": {
         "php": ">=7.2"
     },
     "autoload": {
-        "classmap":[]
+        "classmap": ["services/","utils/"]
     }
 }
