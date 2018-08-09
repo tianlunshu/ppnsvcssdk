@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+composer.phar
+vendor
+test.php
+*.log
+config/dev.php
+tag_test.php
+config/local.php
+composer.lock
